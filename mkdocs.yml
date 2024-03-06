@@ -4,8 +4,7 @@ site_url: https://bilgiyazilim.org
 edit_uri: edit/main/docs/
 
 nav:
-  - Ana Sayfa:
-      - index.md
+  - Ana Sayfa: index.md
   - Blog:
       - blog/index.md
   - Yazılım 101:
