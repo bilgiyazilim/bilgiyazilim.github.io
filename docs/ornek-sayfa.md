@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Markdown Kullanım Örnekleri Sayfası
 
 Bu sayfada sık kullanılan componentlerin örnekleri verilmiştir. Ne yapabiliyorduk, nasıl yapıyorduk
