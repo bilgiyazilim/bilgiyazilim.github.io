@@ -1,0 +1,100 @@
+site_name: Bilgi Yazılım Topluluğu
+repo_url: https://github.com/bilgiyazilim/bilgiyazilim.github.io
+site_url: https://bilgiyazilim.org
+edit_uri: edit/main/docs/
+
+nav:
+  - Ana Sayfa:
+      - index.md
+  - Blog:
+      - blog/index.md
+  - Yazılım 101:
+      - yazilim101/index.md
+      - Yazılıma Nasıl Başlarım: yazilim101/yazilima-nasil-baslarim/index.md
+      - Yazılım Egzersizleri: yazilim101/yazilim-egzersizleri/index.md
+
+theme:
+  language: tr
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - toc.follow
+    - content.code.annotate
+    - content.code.copy
+    - content.action.edit
+
+  logo: assets/images/bilgiyazilimlogo.jpg
+  favicon: assets/images/bilgiyazilimlogo.jpg
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - abbr
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - blog:
+      post_date_format: long
+      post_excerpt_max_authors: 3
+      post_readtime_words_per_minute: 230
+      pagination_per_page: 5
+      pagination_format: "$link_previous ~2~ $link_next"
+      categories_allowed:
+        # Bu kuralı typo'ları engellemek için ekledik.
+        # Yeni bir kategoride blog yazılacağı zaman kategori adını buraya eklemeyi unutmayın.
+        - Genel
+        - Yazılım
+  - git-revision-date-localized:
+      enabled: true
+      enable_creation_date: true
+      fallback_to_build_date: true
+      locale: tr
+      exclude:
+        - index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bilgiyazilim
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/tTePne6hqN
