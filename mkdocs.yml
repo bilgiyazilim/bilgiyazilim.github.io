@@ -34,8 +34,8 @@ theme:
     - content.code.copy
     - content.action.edit
 
-  logo: assets/images/bilgiyazilimlogo.jpg
-  favicon: assets/images/bilgiyazilimlogo.jpg
+  logo: assets/images/bilgi-yazilim-logo.png
+  favicon: assets/images/bilgi-yazilim-logo.png
 
 markdown_extensions:
   - admonition
