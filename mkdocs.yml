@@ -98,6 +98,8 @@ plugins:
       repository: bilgiyazilim/bilgiyazilim.github.io
       branch: main
       token: !ENV [GITHUB_TOKEN, ""]
+      exclude:
+        - index.md
 
 extra:
   social:
