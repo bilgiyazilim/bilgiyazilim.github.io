@@ -91,6 +91,11 @@ plugins:
       locale: tr
       exclude:
         - index.md
+  - git-committers:
+      enabled: !ENV [CI, false]
+      repository: bilgiyazilim/bilgiyazilim.github.io
+      branch: main
+      token: !ENV [GITHUB_TOKEN, ""]
 
 extra:
   social:
