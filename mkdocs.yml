@@ -20,6 +20,8 @@ theme:
     scheme: slate
     primary: black
 
+  custom_dir: overrides
+
   icon:
     repo: fontawesome/brands/github
 

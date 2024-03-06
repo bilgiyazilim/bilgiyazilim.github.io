@@ -3,6 +3,7 @@ date:
   created: 2024-03-06
 categories:
   - Genel
+comments: true
 ---
 
 # Demo Blog Post
