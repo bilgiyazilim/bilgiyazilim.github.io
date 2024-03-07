@@ -1,6 +1,9 @@
 ---
 date:
   created: 2024-03-06
+description:
+  Look mom! I'm shared on social media. Authors can edit me to give an general idea about the
+  content of page.
 categories:
   - Genel
 comments: true
