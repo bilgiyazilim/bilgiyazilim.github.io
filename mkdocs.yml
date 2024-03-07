@@ -108,3 +108,36 @@ extra:
       link: https://github.com/bilgiyazilim
     - icon: fontawesome/brands/discord
       link: https://discord.gg/tTePne6hqN
+
+# mkdocs-coverage (https://github.com/tylerdotrar/mkdocs-coverpage) (home.html belgesinde kullanılıyor)
+# TODO: bu konfigürasyonlar mkdocs.yml'dan kaldırılıp home.html belgesinde hardcoded olarak kullanılacak.
+# Custom Homepage Elements
+home_cover_image: assets/images/bilgi-yazilim-logo.png
+home_tagline: Bilgi Yazılım Topluluğu
+home_description: |
+  İstanbul Bilgi Üniversitesi'ndeki yazılımla ilgilenen öğrencilerin topluluğu
+
+# Gradient Color
+home_gradient_hsla: hsla(203deg, 43%, 21%, 1)
+
+# Custom Homepage Button(s)
+home_button1_name: Discord'a Katıl # Comment this parameter out to remove the button.
+home_button1_url: discord/ # This path starts at your root mkdocs directory.
+home_button1_theme: md-button md-button--primary # Options: "md-button", "md-button md-button--primary"
+home_button1_icon: people # Options: "people", "gear", "image"
+home_button1_blurb: | # Short description of this button / section.
+  Bu metin bloğu silindi
+
+home_button2_name: Blog # Comment this parameter out to remove the button.
+home_button2_url: blog/ # This path starts at your root mkdocs directory.
+home_button2_theme: md-button # Options: "md-button", "md-button md-button--primary"
+home_button2_icon: gear # Options: "people", "gear", "image"
+home_button2_blurb: | # Short description of this button / section.
+  Bu metin bloğu silindi
+
+# home_button3_name: Clicky 3 # Comment this parameter out to remove the button.
+home_button3_url: Folder3/ # This path starts at your root mkdocs directory.
+home_button3_theme: md-button # Options: "md-button", "md-button md-button--primary"
+home_button3_icon: image # Options: "people", "gear", "image"
+home_button3_blurb: | # Short description of this button / section.
+  Bu metin bloğu silindi
