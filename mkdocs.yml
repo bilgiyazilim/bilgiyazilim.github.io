@@ -100,6 +100,7 @@ plugins:
       token: !ENV [GITHUB_TOKEN, ""]
       exclude:
         - index.md
+  - social
 
 extra:
   social:
