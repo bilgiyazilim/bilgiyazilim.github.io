@@ -10,7 +10,6 @@ nav:
       - blog/index.md
   - Yazılım 101:
       - yazilim101/index.md
-      - Yazılıma Nasıl Başlarım: yazilim101/yazilima-nasil-baslarim/index.md
       - Yazılım Egzersizleri: yazilim101/yazilim-egzersizleri/index.md
 
 theme:

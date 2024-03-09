@@ -1,1 +1,0 @@
-# Yazılıma Nasıl Başlarım
