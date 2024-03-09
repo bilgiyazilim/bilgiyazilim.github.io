@@ -17,5 +17,6 @@
         "editor.rulers": [
             100
         ],
-    }
+    },
+    "rewrap.wrappingColumn": 100
 }
