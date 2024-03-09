@@ -18,7 +18,7 @@ Yani [bilgiyazilim.org](https://bilgiyazilim.org) sitesinin güncellenmesi için
 
 > Yerelinizde python3 kurulu olması gerekmektedir.
 
-Repoyu yerelinize clone'la:
+Repoyu yereline clone'la:
 ```
 $ git clone https://github.com/bilgiyazilim/bilgiyazilim.github.io.git
 ```
