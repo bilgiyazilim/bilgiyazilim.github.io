@@ -1,1 +1,1 @@
-# Yazılım 101 Nedir
+# Yazılım 101
