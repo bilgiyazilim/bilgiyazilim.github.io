@@ -6,6 +6,7 @@ edit_uri: edit/main/docs/
 
 nav:
   - Ana Sayfa: index.md
+  - Hakkımızda: hakkimizda/index.md
   - Blog:
       - blog/index.md
   - Yazılım 101:
@@ -92,6 +93,7 @@ plugins:
       locale: tr
       exclude:
         - index.md
+        - hakkimizda/index.md
   - git-committers:
       enabled: !ENV [CI, false]
       repository: bilgiyazilim/bilgiyazilim.github.io
@@ -99,6 +101,7 @@ plugins:
       token: !ENV [GITHUB_TOKEN, ""]
       exclude:
         - index.md
+        - hakkimizda/index.md
   - social
 
 extra:
@@ -130,8 +133,8 @@ home_button1_icon: people # Options: "people", "gear", "image"
 home_button1_blurb: | # Short description of this button / section.
   Bu metin bloğu silindi
 
-home_button2_name: Blog # Comment this parameter out to remove the button.
-home_button2_url: blog/ # This path starts at your root mkdocs directory.
+home_button2_name: Hakkımızda # Comment this parameter out to remove the button.
+home_button2_url: hakkimizda/ # This path starts at your root mkdocs directory.
 home_button2_theme: md-button # Options: "md-button", "md-button md-button--primary"
 home_button2_icon: gear # Options: "people", "gear", "image"
 home_button2_blurb: | # Short description of this button / section.
