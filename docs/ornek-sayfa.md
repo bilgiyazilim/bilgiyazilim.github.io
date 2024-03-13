@@ -1,6 +1,8 @@
 ---
 search:
   exclude: true
+hide:
+    - navigation
 ---
 
 # Markdown Kullanım Örnekleri Sayfası
