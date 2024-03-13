@@ -94,6 +94,7 @@ plugins:
       exclude:
         - index.md
         - hakkimizda/index.md
+        - discord.md
   - git-committers:
       enabled: !ENV [CI, false]
       repository: bilgiyazilim/bilgiyazilim.github.io
@@ -102,6 +103,7 @@ plugins:
       exclude:
         - index.md
         - hakkimizda/index.md
+        - discord.md
   - social
 
 extra:
