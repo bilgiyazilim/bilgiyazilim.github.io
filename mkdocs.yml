@@ -12,6 +12,8 @@ nav:
   - Yazılım 101:
       - yazilim101/index.md
       - Yazılım Egzersizleri: yazilim101/yazilim-egzersizleri/index.md
+  - Açık Ekran:
+      - acik-ekran/index.md
 
 theme:
   language: tr
@@ -86,6 +88,7 @@ plugins:
         # Yeni bir kategoride blog yazılacağı zaman kategori adını buraya eklemeyi unutmayın.
         - Genel
         - Yazılım
+        - Açık Ekran
   - git-revision-date-localized:
       enabled: true
       enable_creation_date: true
