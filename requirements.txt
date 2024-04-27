@@ -1,2 +1,2 @@
-mkdocs-material[imaging]==9.5.13
+mkdocs-material[imaging]==9.5.19
 mkdocs-git-revision-date-localized-plugin==1.2.4
