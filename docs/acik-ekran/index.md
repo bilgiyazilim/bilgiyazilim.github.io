@@ -22,8 +22,8 @@ etkinlik bloglarına [buradan](/blog/category/açık-ekran/) ulaşabilirsiniz. -
 
 ## Nasıl Katılabilirim?
 
-Planlanan etkinlikler Discord sunucumuzdaki `#açık-ekran-duyuru` kanalında paylaşılır. Katılmak için
-bu kanalı takip edebilirsiniz. Katılım tüm üyelere açıktır.
+Planlanan etkinlikler Discord sunucumuzdaki `#duyurular` kanalında paylaşılır. Katılmak için bu
+kanalı takip edebilirsiniz. Katılım tüm üyelere açıktır.
 
 ## Sunum Başvurusu
 
