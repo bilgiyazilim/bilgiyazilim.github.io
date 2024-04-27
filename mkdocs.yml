@@ -98,15 +98,6 @@ plugins:
         - index.md
         - hakkimizda/index.md
         - discord.md
-  - git-committers:
-      enabled: !ENV [CI, false]
-      repository: bilgiyazilim/bilgiyazilim.github.io
-      branch: main
-      token: !ENV [GITHUB_TOKEN, ""]
-      exclude:
-        - index.md
-        - hakkimizda/index.md
-        - discord.md
   - social
 
 extra:
