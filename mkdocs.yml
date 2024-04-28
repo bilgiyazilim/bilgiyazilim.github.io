@@ -9,9 +9,6 @@ nav:
   - Hakkımızda: hakkimizda/index.md
   - Blog:
       - blog/index.md
-  - Yazılım 101:
-      - yazilim101/index.md
-      - Yazılım Egzersizleri: yazilim101/yazilim-egzersizleri/index.md
   - Açık Ekran:
       - acik-ekran/index.md
 
