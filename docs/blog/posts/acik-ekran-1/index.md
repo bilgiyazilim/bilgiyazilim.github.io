@@ -28,7 +28,15 @@ Berk'in tmux öğrenmek isteyenlere önerdiği kaynaklar:
 
 ## Rust ile Örüntü Eşleme (Pattern Matching)
 
-TODO
+[Burhan Keten](https://github.com/ketenburhan) bu etkinlikte Rust Programlama Dili'ndeki örüntü
+eşleme sisteminden bahsetti. Option ve Result sayesinde, nullable değerleri güvenli bir şekilde
+kullanmayı gösterdi.
+
+İlgili kaynaklar:
+
+- [Patterns and Matching - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch18-00-patterns.html)
+- [Module std::option - The Rust Standard Library](https://doc.rust-lang.org/std/option/index.html)
+- [Module std::result - The Rust Standard Library](https://doc.rust-lang.org/std/result/index.html)
 
 ---
 
