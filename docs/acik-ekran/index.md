@@ -15,9 +15,8 @@ seçtikleri bir konu hakkında Discord üzerinden ekran paylaşarak sunumların�
 Bu etkinliklerde üyelerin birbirlerine bilgi paylaşımı yapmaları ve birbirlerini daha iyi tanımaları
 amaçlanır. Ayrıca, sunum yapmak isteyen üyelerin sunum yapma becerilerini geliştirmelerini de sağlar.
 
-<!-- TODO: İlk blog yayınlandıktan sonra yorum bloğundan çıkartılacak. -->
-<!-- Her etkinlik sonrası o etkinlikteki sunumların özeti bir blog yazısında yayınlanır. Açık ekran
-etkinlik bloglarına [buradan](/blog/category/açık-ekran/) ulaşabilirsiniz. -->
+Her etkinlik sonrası o etkinlikteki sunumların özeti bir blog yazısında yayınlanır. Açık ekran
+etkinlik bloglarına [buradan](/blog/category/açık-ekran/) ulaşabilirsiniz.
 
 
 ## Nasıl Katılabilirim?
