@@ -1,4 +1,5 @@
 ---
+slug: acik-ekran-1
 date:
   created: 2024-05-23
 description: "18 Mayıs'ta gerçekleştirdiğimiz ilk Açık Ekran etkinliğinde yapılan sunumlar ve
