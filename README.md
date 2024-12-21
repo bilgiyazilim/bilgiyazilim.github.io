@@ -2,7 +2,8 @@
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
-[bilgiyazilim.org](https://bilgiyazilim.org) websitesinin içerikleri ve konfigürasyonları.
+[bilgiyazilim.github.io](https://bilgiyazilim.github.io) websitesinin içerikleri ve
+konfigürasyonları.
 
 ## Deployments
 
@@ -11,8 +12,9 @@ Pages](https://github.com/bilgiyazilim/bilgiyazilim.github.io/blob/main/.github/
 workflow'u otomatik olarak tetiklenir. Bu workflow, main branch içerisinde websitenin build'ini alıp
 github pages üzerinden yayına alır.
 
-Yani [bilgiyazilim.org](https://bilgiyazilim.org) sitesinin güncellenmesi için yapılması gereken tek
-şey değişikliğin main branch'e aktarılmasıdır. Gerisini hazırlanan workflow halledecektir.
+Yani [bilgiyazilim.github.io](https://bilgiyazilim.github.io) sitesinin güncellenmesi için yapılması
+gereken tek şey değişikliğin main branch'e aktarılmasıdır. Gerisini hazırlanan workflow
+halledecektir.
 
 ## Siteyi Yerelinde Ayağa Kaldır
 

@@ -1,7 +1,7 @@
 site_name: Bilgi Yazılım Topluluğu
 repo_url: https://github.com/bilgiyazilim/bilgiyazilim.github.io
 repo_name: bilgiyazilim.github.io
-site_url: https://bilgiyazilim.org
+site_url: https://bilgiyazilim.github.io
 edit_uri: edit/main/docs/
 
 nav:
